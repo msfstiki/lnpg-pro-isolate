@@ -1,6 +1,6 @@
 <script lang="ts">
     import { Header, Footer } from '$general/index'
-    import { NavMain } from '$global/navigation/index'
+    import { NavMain } from '$globals/navigation/index'
     import '$styles/app.css';
     import "flowbite/dist/flowbite.css";
 </script>

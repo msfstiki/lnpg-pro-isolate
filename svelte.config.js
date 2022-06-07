@@ -17,7 +17,7 @@ const config = {
             resolve: {
                 alias: {
                     '$general': path.resolve('./src/lib/components/general'),
-                    '$global': path.resolve('./src/lib/components/global'),
+                    '$globals': path.resolve('./src/lib/components/globals'),
                     '$section': path.resolve('./src/lib/components/section'),
                     '$shared': path.resolve('./src/lib/components/shared'),
                     '$helper': path.resolve('./src/lib/helper'),

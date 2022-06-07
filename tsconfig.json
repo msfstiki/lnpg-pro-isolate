@@ -16,11 +16,11 @@
 			"$general/*": [
 				"src/lib/components/general/*"
 			],
-			"$global": [
-				"src/lib/components/global"
+			"$globals": [
+				"src/lib/components/globals"
 			],
-			"$global/*": [
-				"src/lib/components/global/*"
+			"$globals/*": [
+				"src/lib/components/globals/*"
 			],
 			"$section": [
 				"src/lib/components/section"
